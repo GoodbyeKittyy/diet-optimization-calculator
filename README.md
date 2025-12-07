@@ -9,6 +9,11 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
+</br>
+<img width="1161" height="848" alt="image" src="https://github.com/user-attachments/assets/d71715fa-8951-471f-b8f3-f775a997fe51" />
+
+</br>
+
 A comprehensive implementation of the classic 1945 Operations Research problem: **The Diet Problem**. This project demonstrates linear programming, the Simplex algorithm, duality theory, sensitivity analysis, and shadow prices through a modern, full-stack application for meal planning and nutritional optimization.
 
 ## 📋 Table of Contents
@@ -136,6 +141,7 @@ diet-optimization-calculator/
 │   └── simplex.zig                 # Zig implementation
 ├── database/
 │   └── schema.sql                  # PostgreSQL schema
+├── diet_optimizer_ui.tsx           # TypeScript Interactive Artifact
 └── README.md                       # This file
 ```
 
@@ -575,30 +581,9 @@ Contributions are welcome! Areas for enhancement:
 - **Recipe Integration** - Combine foods into actual meals
 - **Meal Timing** - Optimize across multiple meals per day
 
-## 📄 License
+---
 
-This project is licensed under the MIT License. See LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **George Dantzig** - Simplex algorithm inventor (1947)
-- **George Stigler** - Original Diet Problem formulation (1945)
-- **USDA** - Nutritional data and recommendations
-- **Linear Programming Community** - Continued research and development
-
-## 📚 References
-
-1. Dantzig, G. B. (1963). *Linear Programming and Extensions*. Princeton University Press.
-2. Stigler, G. J. (1945). "The Cost of Subsistence". *Journal of Farm Economics*, 27(2), 303-314.
-3. Vanderbei, R. J. (2020). *Linear Programming: Foundations and Extensions*. Springer.
-4. USDA. (2020). *Dietary Guidelines for Americans 2020-2025*. U.S. Department of Agriculture.
-
-## 📧 Contact
-
-For questions, suggestions, or collaboration:
-
-- **GitHub Issues** - Technical questions and bug reports
-- **Pull Requests** - Code contributions and improvements
+**⭐ Star this repository if you find it helpful!**
 
 ---
 
